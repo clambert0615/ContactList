@@ -1,0 +1,3 @@
+Amy|Smith|547-985-6958|asmith@hotmail.com|25 Main St|Detroit|MI|48579
+Joe|Jones|552-369-9587|jjones@hotmail.com|226 Hill St|Macomb|MI|48044
+Pete|White|586-987-6541|pwhite@hotmail.com|654 North Ave|Macomb|MI|48044
